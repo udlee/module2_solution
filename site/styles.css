@@ -33,15 +33,16 @@ h2 {
 p{
   padding-right: 10px;
   padding-left:  10px;
+  font-weight: 560;
 }
 
 .section {
   position: relative;
-  border: 1px solid black;
+  border: 3px solid black;
   background-color: #FFEFD5;
   width: 90%;
-  margin-right: 15px;
-  margin-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 20px;
   min-height: 180px;
   text-align: center;
